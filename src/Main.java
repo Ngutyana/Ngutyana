@@ -11,7 +11,6 @@ public class Main
         Details Unathi = new Details("Unathi Ngutyana", "Female",LocalDate.of(1999,10,25));
         System.out.println(Unathi);
 
-        Unathi.setFullname("Unathi Ngutyana");
 
 
     }
